@@ -1,3 +1,6 @@
+/etc/contrail/ca-server/cacerts.jks
+/etc/contrail/ca-server/ca-server.jks
+/etc/contrail/ca-server/create-rootca-files.conf
 /etc/contrail/contrail-federation-web/federation-web.conf
 /usr/lib/contrail/federation-web/src/federweb/settings/__init__.py
 /usr/lib/contrail/federation-web/extra/remote_metadata.xml
